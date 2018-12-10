@@ -1,9 +1,10 @@
 ---
 title: windows通过虚拟机使用docker
 categories:
-- linux
+- 前端
 tags:
-- shell
+- vue
+- webpack
 ---
 
 ## 1、centos yum安装docker
