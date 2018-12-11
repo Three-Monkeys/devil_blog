@@ -101,9 +101,6 @@ $ sudo ./vmware-install.pl
 
 ## [在 Linux 客户机中装载共享文件夹](https://docs.vmware.com/cn/VMware-Workstation-Pro/14.0/com.vmware.ws.using.doc/GUID-D6D9A5FD-7F5F-4C95-AFAB-EDE9335F5562.html)
 ![](/images/screenshot.png)
-
-
-## [在 Linux 客户机中装载共享文件夹](https://docs.vmware.com/cn/VMware-Workstation-Pro/14.0/com.vmware.ws.using.doc/GUID-AB5C80FE-9B8A-4899-8186-3DB8201B1758.html)
 ```bash
 #查看当前虚拟机设置共享的文件夹
 $ vmware-hgfsclient  //根据上图配置的共享文件夹，这条命令会显示docker
