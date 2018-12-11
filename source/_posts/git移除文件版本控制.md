@@ -2,7 +2,7 @@
 title: git移除文件版本控制
 img: /images/git.jpg
 categories:
-- git
+- 工具
 tags:
 - git
 ---

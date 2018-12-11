@@ -2,10 +2,10 @@
 title: windows通过虚拟机使用docker
 img: /images/docker.jpg
 categories:
-- 数据库
+- 容器
 tags:
-- mysql
-- 主从同步
+- Docker
+- Linux
 ---
 
 ## 1、centos yum安装docker
