@@ -1,5 +1,6 @@
 ---
 title: windows通过虚拟机使用docker
+img: /source/images/screenshot.png
 categories:
 - 后端
 tags:
