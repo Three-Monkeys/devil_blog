@@ -1,6 +1,7 @@
 ---
 title: windows通过虚拟机使用docker
 categories:
+img: /images/docker.jpg
 - 数据库
 tags:
 - mysql
