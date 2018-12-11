@@ -4,7 +4,7 @@ img: /images/git.jpg
 categories:
 - 工具
 tags:
-- git
+- Git
 ---
 
 ## 移除某文件/文件夹版本控制
