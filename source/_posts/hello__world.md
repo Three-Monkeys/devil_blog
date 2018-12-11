@@ -1,6 +1,6 @@
 ---
 title: windows通过虚拟机使用docker
-img: /images/git.png
+img: /images/git.jpg
 categories:
 - 后端
 tags:
