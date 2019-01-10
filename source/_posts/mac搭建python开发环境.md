@@ -1,6 +1,6 @@
 ---
 title: mac搭建python开发环境
-img: /images/pythonenv.jpg
+img: /images/pythonenv.png
 categories:
 - Python
 tags:
