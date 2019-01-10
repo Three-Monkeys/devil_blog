@@ -59,8 +59,8 @@ reward:
 # 在”关于”页面中配置个人信息，包括头像、职业和个人介绍.
 profile:
   avatar: /medias/avatar.jpg
-  career: Software Engineer
-  introduction: If you wish to succeed, you should use persistence as your good friend, experience as your reference, prudence as your brother and hope as your sentry.
+  career: Web研发
+  introduction: 看发量不像程序员啊！
 
 # config my projects informations in about page.
 # If you don't want to display this `My Projects` content, you can deactivate or delete this configuration.
@@ -83,6 +83,11 @@ myProjects:
         iconBackground: 'linear-gradient(to bottom right, #29B6F6 0%, #1E88E5 100%)'
         url: https://github.com/DevilCcx/cms_api
         desc: 个人博客CMS后端API(Koa,JWT)
+    DRF_Vue:
+        icon: fa-python
+        iconBackground: 'linear-gradient(to bottom right, #f7dd56 0%, #f7da50 100%)'
+        url: https://github.com/DevilCcx/drf_vue
+        desc: 慕课生鲜实践(Django,Django-REST-framework,Vue)
 
 # config my skills informations in about page.
 # If you don't want to display this `My Skills` content, you can deactivate or delete this configuration.
@@ -93,20 +98,20 @@ mySkills:
     PHP:
       background: 'linear-gradient(to right, #8992be 0%, #8992be 100%)'
       percent: 90%
+    Python:
+      background: 'linear-gradient(to right, #2a5a82 0%, #1e415f 100%)'
+      percent: 75%
     Node:
       background: 'linear-gradient(to right, #79b85f 0%, #3e863c 100%)'
-      percent: 85%
-    MySql:
-      background: 'linear-gradient(to right, #00758f 0%, #4479a1 100%)'
       percent: 85%
     Vue:
       background: 'linear-gradient(to right, #41b883 0%, #41b883 100%)'
       percent: 85%
-    JavaScript:
-      background: 'linear-gradient(to right, #ed5038 0%, #e92175 100%)'
-      percent: 80%
+    MySql:
+      background: 'linear-gradient(to right, #00758f 0%, #4479a1 100%)'
+      percent: 85%
     Linux:
-      background: 'linear-gradient(to right, #FFEB3B 0%, #FFF176 100%)'
+      background: 'linear-gradient(to right, #4a4e51 0%, #4a4e51 100%)'
       percent: 80%
     Webpack:
       background: 'linear-gradient(to right, #74aecc 0%, #55a7dc 100%)'
@@ -115,10 +120,10 @@ mySkills:
       background: 'linear-gradient(to right, #00BCD4 0%, #80DEEA 100%)'
       percent: 75%
     HTML5:
-      background: 'linear-gradient(to right, #f16529 0%, #e44d26 100%)'
+      background: 'linear-gradient(to right, #ed6529 0%, #ed6529 100%)'
       percent: 75%
     CSS3:
-      background: 'linear-gradient(to right, #F3EC97 0%, #FBFC21 100%)'
+      background: 'linear-gradient(to right, #72b2de 0%, #4a9adb 100%)'
       percent: 75%
 
 # config gallery of my photos in about page.

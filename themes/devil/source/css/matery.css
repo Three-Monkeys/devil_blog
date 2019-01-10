@@ -1376,7 +1376,7 @@ table tr:nth-child(2n), thead {
 .my-projects .info {
     max-width: 360px;
     margin: 0 auto;
-    padding: 1rem 0 1rem;
+    padding: 2rem 0 2rem;
 }
 
 .my-projects .info .icon {
@@ -1402,6 +1402,7 @@ table tr:nth-child(2n), thead {
 }
 
 .my-projects .info .info-desc {
+    height: 30px;
     margin: 0 0 10px;
     font-size: 0.9rem;
     color: #999;
