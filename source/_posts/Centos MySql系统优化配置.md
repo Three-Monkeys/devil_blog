@@ -5,4 +5,7 @@ categories:
 tags:
 - MySql
 ---
-//
+## 内核相关参数（/etc/sysctl.config）
+```shell
+
+```
