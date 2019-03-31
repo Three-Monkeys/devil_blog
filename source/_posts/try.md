@@ -1,5 +1,7 @@
 ---
 title: 文章标题
+img:/images/流程图.png
+
 categories:
 - 分类
 tags:
